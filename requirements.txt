@@ -1,6 +1,6 @@
-numpy
-opencv-python
-pandas
-scikit-learn
 streamlit
 joblib
+opencv-python-headless
+numpy
+Pillow
+pandas
